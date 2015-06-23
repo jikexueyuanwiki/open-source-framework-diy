@@ -13,3 +13,5 @@
 - [开源与中小型软件公司的未来趋势](open-source-company-trend.md)
 - [教计算机程序解数学题](application-problem-solving.md)
 - [借船下海还是造船下海](reference-innovation.md)
+- [缓存相关代码的演变](cache-code-evolution.md)
+- [与屈原对话及开源精神](open-source-spirit.md)
